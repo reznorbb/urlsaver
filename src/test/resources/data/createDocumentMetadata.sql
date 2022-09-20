@@ -1,0 +1,1 @@
+insert into document_metadata (id, source, created) values (2, 'https://onet.pl/', '2022-09-20 09:54:33.929104');
